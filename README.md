@@ -74,3 +74,5 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 ### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
+
+## Submited: [Solution](https://replit.com/@MoloMunyansanga/boilerplate-polygon-area-calculator-3#shape_calculator.py)
